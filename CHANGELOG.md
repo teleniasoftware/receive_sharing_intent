@@ -1,3 +1,7 @@
+## 1.8.2
+
+* Fixed sharing not working on iOS 26
+
 ## 1.8.1
 
 * Fixed sharing not working on iOS 18
